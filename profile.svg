@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1400" width="1000">
+
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4d6d"/>
+      <stop offset="100%" stop-color="#4d79ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1400" fill="url(#bg)" rx="30"/>
+
+  <!-- Header -->
+  <text x="50%" y="120" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="60" fill="white">GSKY</text>
+
+  <!-- About Me Section -->
+  <text x="50%" y="250" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="36" fill="white">👋 About Me</text>
+
+  <text x="50%" y="320" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="20" fill="white">
+    Hi, I'm gsky!
+  </text>
+  <text x="50%" y="360" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="18" fill="white">
+    🔭 Working on: several discord bots (moderation, cybersecurity, RSS)
+  </text>
+  <text x="50%" y="390" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="18" fill="white">
+    🌱 Interested in: cybersecurity, bots, and automation
+  </text>
+  <text x="50%" y="420" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="18" fill="white">
+    🎮 Fun fact: I used to make malware in my spare time
+  </text>
+
+  <!-- Smiling stick figure -->
+  <!-- Head -->
+  <circle cx="500" cy="600" r="50" fill="none" stroke="white" stroke-width="4"/>
+  <!-- Body -->
+  <line x1="500" y1="650" x2="500" y2="800" stroke="white" stroke-width="4"/>
+  <!-- Arms -->
+  <line x1="450" y1="700" x2="550" y2="700" stroke="white" stroke-width="4"/>
+  <!-- Legs -->
+  <line x1="500" y1="800" x2="450" y2="900" stroke="white" stroke-width="4"/>
+  <line x1="500" y1="800" x2="550" y2="900" stroke="white" stroke-width="4"/>
+  <!-- Smile -->
+  <path d="M480,600 Q500,620 520,600" stroke="white" stroke-width="3" fill="none"/>
+  <!-- Eyes -->
+  <circle cx="485" cy="590" r="3" fill="white"/>
+  <circle cx="515" cy="590" r="3" fill="white"/>
+
+  <!-- Footer Text -->
+  <text x="50%" y="950" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="20" fill="white">BLEHHH</text>
+
+</svg>
