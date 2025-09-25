@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1400" width="1000">
 
-  <!-- Gradient background -->
+  <!-- Gradient bg -->
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ff4d6d"/>
@@ -13,7 +13,7 @@
   <text x="50%" y="120" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="60" fill="white">GSKY</text>
 
-  <!-- About Me Section -->
+  <!-- About Me -->
   <text x="50%" y="250" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="36" fill="white">👋 About Me</text>
 
@@ -34,7 +34,7 @@
     🎮 Fun fact: I used to make malware in my spare time
   </text>
 
-  <!-- Smiling stick figure -->
+  <!-- Little Hooman -->
   <!-- Head -->
   <circle cx="500" cy="600" r="50" fill="none" stroke="white" stroke-width="4"/>
   <!-- Body -->
@@ -50,7 +50,7 @@
   <circle cx="485" cy="590" r="3" fill="white"/>
   <circle cx="515" cy="590" r="3" fill="white"/>
 
-  <!-- Footer Text -->
+  <!-- Footer -->
   <text x="50%" y="950" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="20" fill="white">BLEHHH</text>
 
