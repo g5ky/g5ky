@@ -7,7 +7,6 @@ I'm a college student from **Singapore** studying **Cybersecurity** and I'm inte
 - Penetration Testing
 - Programming
 - Technology
-I enjoy learning how systems work, building things, exploring security concepts, and continuously improving my technical skills.
 ---
 ## Interests
 - Cybersecurity
